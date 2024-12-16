@@ -1,13 +1,5 @@
 # 🔧 Setup Instructions
 
-## ⚡ Quick Start
-
-1. **Run the setup.bat file as an administrator.**
-    - Right-click on setup.bat and select "Run as administrator".
-
-2. **Respond to the prompt when executing a script.**
-    - When prompted to execute a script, type R to allow execution.
-
 ---
 
 ## 💾 Office Versions Download
@@ -51,15 +43,17 @@ For Office 2021 Pro Plus version in Russian:
 
 ---
 
+## ⚡ Quick Start
+
+1. **Run the setup.bat file as an administrator.**
+    - Right-click on setup.bat and select "Run as administrator".
+
+2. **Respond to the prompt when executing a script.**
+    - When prompted to execute a script, type R to allow execution.
+
+---
+
 # 🔧 Инструкции по установке
-
-## ⚡ Быстрый старт
-
-1. **Запустите файл setup.bat от имени администратора.**
-    - Щелкните правой кнопкой мыши на setup.bat и выберите "Запуск от имени администратора".
-
-2. **Ответьте на запрос при выполнении скрипта.**
-    - Когда появится запрос на выполнение скрипта, введите R, чтобы разрешить выполнение.
 
 ---
 
@@ -101,3 +95,14 @@ For Office 2021 Pro Plus version in Russian:
 Для Office 2021 Pro Plus версии на русском языке:
 
 [https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-RU/ProPlus2021Retail.img](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/ru-RU/ProPlus2021Retail.img)
+
+---
+
+## ⚡ Быстрый старт
+
+1. **Запустите файл setup.bat от имени администратора.**
+    - Щелкните правой кнопкой мыши на setup.bat и выберите "Запуск от имени администратора".
+
+2. **Ответьте на запрос при выполнении скрипта.**
+    - Когда появится запрос на выполнение скрипта, введите R, чтобы разрешить выполнение.
+
